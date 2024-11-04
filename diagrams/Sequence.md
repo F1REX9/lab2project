@@ -4,32 +4,27 @@
 # Содержание
 1. [Вход в аккаунт](#1)
 2. [Регистрация](#2)
-3. [Добавление товара](#3)
-4. [Главное окно](#4)
-5. [Каталог](#5)
-6. [Добавление товара в корзину](#6)
+3. [Главное окно](#3)
+4. [Каталог](#4)
+5. [Добавление товара в корзину](#5)
 
 
 ### 1. Вход в аккаунт<a name="1"></a>
 
-![Вход в аккаунт](https://github.com/alwayswnnasleep/ZedkaShop/blob/master/docs/Diagrams/images/SignInSequenceDiagram.png)
+![Вход в аккаунт](https://github.com/F1REX9/lab2project/blob/main/diagrams/images/SignInSequenceDiagram.png)
 
 ### 2. Регистрация<a name="2"></a>
 
-![Регистрация](https://github.com/alwayswnnasleep/ZedkaShop/blob/master/docs/Diagrams/images/RegisterSequenceDiagram.png)
+![Регистрация](https://github.com/F1REX9/lab2project/blob/main/diagrams/images/RegisterSequenceDiagram.png)
   
-### 3. Добавление товара<a name="3"></a>
+### 3. Главное окно<a name="3"></a>
 
-![Добавление товара](https://github.com/alwayswnnasleep/ZedkaShop/blob/master/docs/Diagrams/images/AddProductSequenceDiagram.png)
+![Добавление товара](https://github.com/F1REX9/lab2project/blob/main/diagrams/images/HomePageSequenceDiagram.png)
 
-### 4. Главное окно<a name="4"></a>
+### 4. Каталог<a name="4"></a>
 
-![Добавление товара](https://github.com/alwayswnnasleep/ZedkaShop/blob/master/docs/Diagrams/images/HomePageSequenceDiagram.png)
+![Добавление товара](https://github.com/F1REX9/lab2project/blob/main/diagrams/images/CatalogSequenceDiagram.png)
 
-### 5. Каталог<a name="5"></a>
+### 5. Добавление товара в корзину<a name="5"></a>
 
-![Добавление товара](https://github.com/alwayswnnasleep/ZedkaShop/blob/master/docs/Diagrams/images/CatalogSequenceDiagram.png)
-
-### 6. Добавление товара в корзину<a name="6"></a>
-
-![Добавление товара](https://github.com/alwayswnnasleep/ZedkaShop/blob/master/docs/Diagrams/images/AddToCartSequenceDiagram.png)
+![Добавление товара](https://github.com/F1REX9/lab2project/blob/main/diagrams/images/AddToCartSequenceDiagram.png)
