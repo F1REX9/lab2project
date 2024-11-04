@@ -1,4 +1,4 @@
 
 # Диаграмма компонентов и развёртывания  
 
-![Диаграмма компонентов и развёртывания](https://github.com/alwayswnnasleep/ZedkaShop/blob/master/docs/Diagrams/images/DeploymentDiagram.png) 
+![Диаграмма компонентов и развёртывания](https://github.com/F1REX9/lab2project/blob/main/diagrams/images/DeploymentDiagram.png) 
